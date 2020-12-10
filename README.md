@@ -1,5 +1,3 @@
 ### Python Tutorial
 
-```py
-print("hello, world")
-```
+Hey guys, how are you going ?
